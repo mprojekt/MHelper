@@ -1,0 +1,10 @@
+<%@page pageEncoding="UTF-8"%>
+        <div class="col-sm-12">
+            <div class="panel panel-default">
+                <div class="panel-body text-center szare-tlo">
+                    Created by Marcin Pietroszek &copy; 2015 Wszelkie prawa zastrzeżone!
+                    <a class="" href="http://mpietroszek.pl" target="_blank"> <b>Portfolio</b></a>        
+                </div>
+            </div>
+        </div>
+        
